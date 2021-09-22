@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\bin\Debug\netcoreapp3.1\01PiratesMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01PiratesMidExam\obj\Debug\netcoreapp3.1\01PiratesMidExam.genruntimeconfig.cache

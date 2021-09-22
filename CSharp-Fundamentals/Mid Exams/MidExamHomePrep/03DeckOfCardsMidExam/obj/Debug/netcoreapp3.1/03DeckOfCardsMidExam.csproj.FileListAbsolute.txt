@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\bin\Debug\netcoreapp3.1\03DeckOfCardsMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03DeckOfCardsMidExam\obj\Debug\netcoreapp3.1\03DeckOfCardsMidExam.genruntimeconfig.cache

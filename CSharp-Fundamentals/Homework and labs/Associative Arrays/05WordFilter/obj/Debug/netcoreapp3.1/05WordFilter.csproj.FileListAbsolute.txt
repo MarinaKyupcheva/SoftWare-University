@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.exe
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.dll
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\bin\Debug\netcoreapp3.1\05WordFilter.pdb
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.dll
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.pdb
+C:\Users\Admin\source\repos\Associative Arrays\05WordFilter\obj\Debug\netcoreapp3.1\05WordFilter.genruntimeconfig.cache

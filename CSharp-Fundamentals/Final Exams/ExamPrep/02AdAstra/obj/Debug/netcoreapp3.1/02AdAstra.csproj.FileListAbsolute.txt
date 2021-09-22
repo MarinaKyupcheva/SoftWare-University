@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.exe
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.deps.json
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.dll
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\bin\Debug\netcoreapp3.1\02AdAstra.pdb
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.dll
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.pdb
+C:\Users\Admin\source\repos\ExamPrep\02AdAstra\obj\Debug\netcoreapp3.1\02AdAstra.genruntimeconfig.cache

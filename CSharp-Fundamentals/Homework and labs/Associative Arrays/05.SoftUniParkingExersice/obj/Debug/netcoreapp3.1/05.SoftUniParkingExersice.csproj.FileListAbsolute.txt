@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.exe
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.dll
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\bin\Debug\netcoreapp3.1\05.SoftUniParkingExersice.pdb
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.dll
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.pdb
+C:\Users\Admin\source\repos\Associative Arrays\05.SoftUniParkingExersice\obj\Debug\netcoreapp3.1\05.SoftUniParkingExersice.genruntimeconfig.cache

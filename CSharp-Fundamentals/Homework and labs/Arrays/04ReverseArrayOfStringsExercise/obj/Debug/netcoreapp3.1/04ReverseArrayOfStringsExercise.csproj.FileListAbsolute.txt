@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.exe
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.deps.json
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.dll
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\bin\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.pdb
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.dll
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.pdb
+C:\Users\Admin\source\repos\Arrays\04ReverseArrayOfStringsExercise\obj\Debug\netcoreapp3.1\04ReverseArrayOfStringsExercise.genruntimeconfig.cache

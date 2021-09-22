@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.exe
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.deps.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.genruntimeconfig.cache

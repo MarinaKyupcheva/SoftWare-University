@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.exe
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.deps.json
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.dll
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\bin\Debug\netcoreapp3.1\03FollowersExam2.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.dll
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03FollowersExam2\obj\Debug\netcoreapp3.1\03FollowersExam2.genruntimeconfig.cache

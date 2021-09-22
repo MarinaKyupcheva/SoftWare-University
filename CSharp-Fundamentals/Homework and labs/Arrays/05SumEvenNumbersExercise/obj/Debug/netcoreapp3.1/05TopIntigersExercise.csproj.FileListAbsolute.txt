@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.exe
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.deps.json
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.dll
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\bin\Debug\netcoreapp3.1\05TopIntigersExercise.pdb
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.dll
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.pdb
+C:\Users\Admin\source\repos\Arrays\05SumEvenNumbersExercise\obj\Debug\netcoreapp3.1\05TopIntigersExercise.genruntimeconfig.cache

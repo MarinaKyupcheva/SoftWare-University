@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.exe
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.deps.json
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\bin\Debug\netcoreapp3.1\06.ExtractEmailsExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01MatchFullName\06.ExtractEmailsExercise\obj\Debug\netcoreapp3.1\06.ExtractEmailsExercise.csprojAssemblyReference.cache

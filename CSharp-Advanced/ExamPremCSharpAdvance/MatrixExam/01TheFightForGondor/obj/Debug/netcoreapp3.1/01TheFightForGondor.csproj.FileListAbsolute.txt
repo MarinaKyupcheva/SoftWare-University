@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.exe
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.deps.json
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.json
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.dll
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.dll
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+C:\Users\Admin\source\repos\MatrixExam\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.genruntimeconfig.cache

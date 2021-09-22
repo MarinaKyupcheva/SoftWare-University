@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\bin\Debug\netcoreapp3.1\03HeartDeliveryArray.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03HeartDeliveryArray\obj\Debug\netcoreapp3.1\03HeartDeliveryArray.genruntimeconfig.cache

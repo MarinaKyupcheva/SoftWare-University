@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.exe
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\bin\Debug\netcoreapp3.1\09ForceBookExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\09ForceBookExercise\obj\Debug\netcoreapp3.1\09ForceBookExercise.genruntimeconfig.cache

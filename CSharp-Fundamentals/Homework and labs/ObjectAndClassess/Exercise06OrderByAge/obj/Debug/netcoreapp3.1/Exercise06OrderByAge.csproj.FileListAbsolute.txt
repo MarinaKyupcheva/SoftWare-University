@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.exe
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.deps.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.runtimeconfig.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.dll
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\bin\Debug\netcoreapp3.1\Exercise06OrderByAge.pdb
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.dll
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.pdb
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise06OrderByAge\obj\Debug\netcoreapp3.1\Exercise06OrderByAge.genruntimeconfig.cache

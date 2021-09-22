@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.exe
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.deps.json
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.dll
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\bin\Debug\netcoreapp3.1\03ExtractFileExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.dll
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\03ExtractFileExercise\obj\Debug\netcoreapp3.1\03ExtractFileExercise.genruntimeconfig.cache

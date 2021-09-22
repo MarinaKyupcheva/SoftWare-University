@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\bin\Debug\netcoreapp3.1\02SugarCubesMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SugarCubesMidExam\obj\Debug\netcoreapp3.1\02SugarCubesMidExam.csprojAssemblyReference.cache

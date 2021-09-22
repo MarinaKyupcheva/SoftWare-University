@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.exe
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.deps.json
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.dll
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\bin\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.dll
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\06ReplaceRepeatingCharsExercise\obj\Debug\netcoreapp3.1\06ReplaceRepeatingCharsExercise.genruntimeconfig.cache

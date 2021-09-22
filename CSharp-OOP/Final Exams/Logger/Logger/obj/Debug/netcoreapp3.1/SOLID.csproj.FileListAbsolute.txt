@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\Admin\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\Admin\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache

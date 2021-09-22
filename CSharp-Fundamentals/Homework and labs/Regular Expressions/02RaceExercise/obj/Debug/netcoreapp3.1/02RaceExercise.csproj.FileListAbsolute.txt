@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.exe
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.deps.json
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\bin\Debug\netcoreapp3.1\02RaceExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\02RaceExercise\obj\Debug\netcoreapp3.1\02RaceExercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.exe
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.deps.json
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.runtimeconfig.json
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.dll
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\bin\Debug\netcoreapp3.1\06CardsGame.pdb
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.dll
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.pdb
+C:\Users\Admin\source\repos\ListsExercise\06CardsGame\obj\Debug\netcoreapp3.1\06CardsGame.genruntimeconfig.cache

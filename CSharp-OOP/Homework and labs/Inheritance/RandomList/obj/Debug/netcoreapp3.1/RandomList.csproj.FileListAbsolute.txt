@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.exe
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.deps.json
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.json
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Admin\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Admin\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "01StudentInformation": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

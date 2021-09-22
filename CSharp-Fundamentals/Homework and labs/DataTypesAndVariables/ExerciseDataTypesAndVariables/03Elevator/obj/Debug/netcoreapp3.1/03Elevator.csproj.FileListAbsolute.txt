@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.exe
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.deps.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.genruntimeconfig.cache

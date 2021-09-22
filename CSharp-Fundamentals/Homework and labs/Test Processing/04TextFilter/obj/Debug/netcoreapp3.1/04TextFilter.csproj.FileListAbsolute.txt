@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.exe
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.deps.json
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.dll
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.pdb
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.dll
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.pdb
+C:\Users\Admin\source\repos\Test Processing\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.genruntimeconfig.cache

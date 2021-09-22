@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\bin\Debug\netcoreapp3.1\02SeizeTheFire.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02SeizeTheFire\obj\Debug\netcoreapp3.1\02SeizeTheFire.genruntimeconfig.cache

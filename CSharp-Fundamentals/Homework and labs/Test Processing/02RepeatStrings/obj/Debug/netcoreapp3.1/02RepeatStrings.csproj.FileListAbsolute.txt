@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.exe
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.deps.json
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.dll
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.pdb
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.dll
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.pdb
+C:\Users\Admin\source\repos\Test Processing\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.genruntimeconfig.cache

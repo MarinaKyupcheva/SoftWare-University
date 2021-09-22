@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\bin\Debug\netcoreapp3.1\01TheHuntingGames.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01TheHuntingGames\obj\Debug\netcoreapp3.1\01TheHuntingGames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\bin\Debug\netcoreapp3.1\02ArrayModifier.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02ArrayModifier\obj\Debug\netcoreapp3.1\02ArrayModifier.genruntimeconfig.cache

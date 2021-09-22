@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.exe
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.deps.json
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.dll
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\bin\Debug\netcoreapp3.1\03ThePianist2D.pdb
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.dll
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.pdb
+C:\Users\Admin\source\repos\ExamPrep\03ThePianist2D\obj\Debug\netcoreapp3.1\03ThePianist2D.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\bin\Debug\netcoreapp3.1\Problem01NationalCourt.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01NationalCourt\obj\Debug\netcoreapp3.1\Problem01NationalCourt.genruntimeconfig.cache

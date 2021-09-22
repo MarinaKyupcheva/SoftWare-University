@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.exe
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.deps.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.runtimeconfig.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.genruntimeconfig.cache

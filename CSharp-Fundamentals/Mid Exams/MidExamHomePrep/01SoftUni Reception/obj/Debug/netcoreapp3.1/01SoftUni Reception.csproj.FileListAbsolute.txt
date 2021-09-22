@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\bin\Debug\netcoreapp3.1\01SoftUni Reception.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\01SoftUni Reception\obj\Debug\netcoreapp3.1\01SoftUni Reception.genruntimeconfig.cache

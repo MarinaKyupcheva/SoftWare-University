@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.exe
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.deps.json
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\bin\Debug\netcoreapp3.1\01FurnitureExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\01FurnitureExercise\obj\Debug\netcoreapp3.1\01FurnitureExercise.genruntimeconfig.cache

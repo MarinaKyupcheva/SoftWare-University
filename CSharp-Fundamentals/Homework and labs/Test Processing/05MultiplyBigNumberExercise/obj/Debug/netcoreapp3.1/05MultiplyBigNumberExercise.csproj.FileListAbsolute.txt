@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.exe
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.deps.json
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.dll
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\bin\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.dll
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test Processing\05MultiplyBigNumberExercise\obj\Debug\netcoreapp3.1\05MultiplyBigNumberExercise.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\Admin\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache

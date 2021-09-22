@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.exe
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.dll
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\bin\Debug\netcoreapp3.1\04LargestNumbers.pdb
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.dll
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.pdb
+C:\Users\Admin\source\repos\Associative Arrays\04LargestNumbers\obj\Debug\netcoreapp3.1\04LargestNumbers.genruntimeconfig.cache

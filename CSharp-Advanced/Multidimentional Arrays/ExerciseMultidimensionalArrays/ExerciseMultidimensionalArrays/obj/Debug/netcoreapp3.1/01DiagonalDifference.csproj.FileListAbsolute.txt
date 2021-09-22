@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.exe
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.deps.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\bin\Debug\netcoreapp3.1\01DiagonalDifference.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\ExerciseMultidimensionalArrays\obj\Debug\netcoreapp3.1\01DiagonalDifference.csprojAssemblyReference.cache

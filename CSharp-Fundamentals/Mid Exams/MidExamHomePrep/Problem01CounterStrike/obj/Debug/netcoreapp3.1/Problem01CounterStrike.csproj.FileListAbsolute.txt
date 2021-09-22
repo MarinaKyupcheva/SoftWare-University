@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\bin\Debug\netcoreapp3.1\Problem01CounterStrike.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem01CounterStrike\obj\Debug\netcoreapp3.1\Problem01CounterStrike.genruntimeconfig.cache

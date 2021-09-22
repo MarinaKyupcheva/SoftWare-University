@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.exe
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.deps.json
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.runtimeconfig.json
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.dll
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.pdb
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.dll
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.pdb
+C:\Users\Admin\source\repos\ListsExercise\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.genruntimeconfig.cache

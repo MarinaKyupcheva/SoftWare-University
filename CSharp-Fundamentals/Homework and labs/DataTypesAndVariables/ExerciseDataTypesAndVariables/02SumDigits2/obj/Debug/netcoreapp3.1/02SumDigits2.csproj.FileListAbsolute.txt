@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.exe
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.deps.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\bin\Debug\netcoreapp3.1\02SumDigits2.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\02SumDigits2\obj\Debug\netcoreapp3.1\02SumDigits2.genruntimeconfig.cache

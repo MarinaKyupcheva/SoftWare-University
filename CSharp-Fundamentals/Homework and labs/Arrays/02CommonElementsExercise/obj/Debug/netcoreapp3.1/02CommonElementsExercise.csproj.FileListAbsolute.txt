@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.exe
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.deps.json
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.dll
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\bin\Debug\netcoreapp3.1\02CommonElementsExercise.pdb
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.dll
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.pdb
+C:\Users\Admin\source\repos\Arrays\02CommonElementsExercise\obj\Debug\netcoreapp3.1\02CommonElementsExercise.genruntimeconfig.cache

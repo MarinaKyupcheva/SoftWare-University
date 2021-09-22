@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.exe
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.deps.json
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\bin\Debug\netcoreapp3.1\03P!ratesStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\03P!ratesStamo\obj\Debug\netcoreapp3.1\03P!ratesStamo.genruntimeconfig.cache

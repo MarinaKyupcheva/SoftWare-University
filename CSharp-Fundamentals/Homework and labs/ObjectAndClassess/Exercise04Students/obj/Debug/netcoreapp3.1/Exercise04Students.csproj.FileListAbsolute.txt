@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.exe
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.deps.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.runtimeconfig.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.dll
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\bin\Debug\netcoreapp3.1\Exercise04Students.pdb
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.dll
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.pdb
+C:\Users\Admin\source\repos\ObjectAndClassess\Exercise04Students\obj\Debug\netcoreapp3.1\Exercise04Students.genruntimeconfig.cache

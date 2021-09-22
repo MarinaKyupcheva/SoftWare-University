@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.exe
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.deps.json
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\WarmWinter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.exe
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.deps.json
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\bin\Debug\netcoreapp3.1\01ActivationKeysStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\01ActivationKeysStamo\obj\Debug\netcoreapp3.1\01ActivationKeysStamo.genruntimeconfig.cache

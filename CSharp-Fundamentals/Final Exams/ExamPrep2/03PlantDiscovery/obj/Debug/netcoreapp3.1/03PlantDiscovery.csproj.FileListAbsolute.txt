@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.exe
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.deps.json
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.dll
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.dll
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.genruntimeconfig.cache

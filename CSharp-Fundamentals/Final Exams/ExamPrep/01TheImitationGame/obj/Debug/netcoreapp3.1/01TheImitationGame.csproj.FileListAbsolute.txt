@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.exe
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.deps.json
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.dll
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\bin\Debug\netcoreapp3.1\01TheImitationGame.pdb
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.dll
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.pdb
+C:\Users\Admin\source\repos\ExamPrep\01TheImitationGame\obj\Debug\netcoreapp3.1\01TheImitationGame.genruntimeconfig.cache

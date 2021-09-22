@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.exe
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.deps.json
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.dll
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\bin\Debug\netcoreapp3.1\09PalindromeIntegers.pdb
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.dll
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.pdb
+C:\Users\Admin\source\repos\Methods\09PalindromeIntegers\obj\Debug\netcoreapp3.1\09PalindromeIntegers.genruntimeconfig.cache

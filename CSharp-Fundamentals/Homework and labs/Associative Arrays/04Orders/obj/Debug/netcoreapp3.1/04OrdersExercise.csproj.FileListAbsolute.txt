@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.exe
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\bin\Debug\netcoreapp3.1\04OrdersExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\04Orders\obj\Debug\netcoreapp3.1\04OrdersExercise.genruntimeconfig.cache

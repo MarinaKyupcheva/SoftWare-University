@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.exe
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.deps.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\ExerciseDataTypesAndVariables.genruntimeconfig.cache

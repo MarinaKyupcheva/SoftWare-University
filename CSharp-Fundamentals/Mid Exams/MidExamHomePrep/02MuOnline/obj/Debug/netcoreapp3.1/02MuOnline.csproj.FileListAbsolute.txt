@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.genruntimeconfig.cache

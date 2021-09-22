@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.exe
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.deps.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\bin\Debug\netcoreapp3.1\09SpiceMustFlow.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.dll
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.pdb
+C:\Users\Admin\source\repos\ExerciseDataTypesAndVariables\09SpiceMustFlow\obj\Debug\netcoreapp3.1\09SpiceMustFlow.genruntimeconfig.cache

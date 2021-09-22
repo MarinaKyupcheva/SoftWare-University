@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Admin\source\repos\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Admin\source\repos\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

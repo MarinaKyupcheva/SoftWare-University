@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.exe
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.deps.json
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\bin\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.dll
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.pdb
+C:\Users\Admin\source\repos\01MatchFullName\03SoftUniBarIncomeExercise\obj\Debug\netcoreapp3.1\03SoftUniBarIncomeExercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Admin\source\repos\MatrixExam\MatrixExam\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

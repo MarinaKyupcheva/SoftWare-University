@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\bin\Debug\netcoreapp3.1\Problem02ShootOrTheWin.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\Problem02ShootOrTheWin\obj\Debug\netcoreapp3.1\Problem02ShootOrTheWin.genruntimeconfig.cache

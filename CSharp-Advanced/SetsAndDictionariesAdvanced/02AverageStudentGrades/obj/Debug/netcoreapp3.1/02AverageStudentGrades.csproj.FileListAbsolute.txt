@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.exe
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.deps.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.runtimeconfig.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.genruntimeconfig.cache

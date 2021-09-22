@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.exe
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.deps.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.runtimeconfig.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\netcoreapp3.1\01StudentInformation.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\netcoreapp3.1\01StudentInformation.genruntimeconfig.cache

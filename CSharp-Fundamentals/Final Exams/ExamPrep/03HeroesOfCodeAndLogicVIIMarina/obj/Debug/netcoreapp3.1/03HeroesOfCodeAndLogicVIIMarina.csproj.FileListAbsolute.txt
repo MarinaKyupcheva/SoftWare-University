@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.exe
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.deps.json
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.dll
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.pdb
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.dll
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.pdb
+C:\Users\Admin\source\repos\ExamPrep\03HeroesOfCodeAndLogicVIIMarina\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogicVIIMarina.genruntimeconfig.cache

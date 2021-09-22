@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.exe
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.deps.json
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\Users\Admin\source\repos\Test Processing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.genruntimeconfig.cache

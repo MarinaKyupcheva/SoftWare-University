@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.exe
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.deps.json
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.runtimeconfig.json
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.dll
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\bin\Debug\netcoreapp3.1\CarEngineAndTires.pdb
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.dll
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.pdb
+C:\Users\Admin\source\repos\DefiningClasses\02CarExtension\obj\Debug\netcoreapp3.1\CarEngineAndTires.genruntimeconfig.cache

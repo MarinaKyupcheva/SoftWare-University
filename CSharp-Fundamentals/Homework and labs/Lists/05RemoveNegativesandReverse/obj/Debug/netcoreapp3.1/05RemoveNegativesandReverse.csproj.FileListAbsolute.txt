@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.exe
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.deps.json
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.dll
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.pdb
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.dll
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.pdb
+C:\Users\Admin\source\repos\Lists\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.genruntimeconfig.cache

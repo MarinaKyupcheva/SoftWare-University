@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.exe
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\bin\Debug\netcoreapp3.1\09CharstoString.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\09CharstoString\obj\Debug\netcoreapp3.1\09CharstoString.genruntimeconfig.cache

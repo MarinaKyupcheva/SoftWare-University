@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.exe
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.deps.json
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\Admin\source\repos\ExamPremCSharpAdvance\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.genruntimeconfig.cache

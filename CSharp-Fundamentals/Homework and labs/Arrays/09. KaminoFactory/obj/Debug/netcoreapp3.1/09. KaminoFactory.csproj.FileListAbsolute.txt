@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\Arrays\09. KaminoFactory\obj\Debug\netcoreapp3.1\09. KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\09. KaminoFactory\obj\Debug\netcoreapp3.1\09. KaminoFactory.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\09. KaminoFactory\obj\Debug\netcoreapp3.1\09. KaminoFactory.csproj.CoreCompileInputs.cache

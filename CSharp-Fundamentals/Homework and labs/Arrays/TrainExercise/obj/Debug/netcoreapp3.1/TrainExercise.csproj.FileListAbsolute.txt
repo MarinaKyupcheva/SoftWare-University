@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.exe
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.deps.json
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.dll
+C:\Users\Admin\source\repos\Arrays\TrainExercise\bin\Debug\netcoreapp3.1\TrainExercise.pdb
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.dll
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.pdb
+C:\Users\Admin\source\repos\Arrays\TrainExercise\obj\Debug\netcoreapp3.1\TrainExercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.exe
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.deps.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.genruntimeconfig.cache

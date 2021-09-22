@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.exe
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.deps.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.runtimeconfig.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\bin\Debug\netcoreapp3.1\08DivisibleBy3.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\08DivisibleBy3\obj\Debug\netcoreapp3.1\08DivisibleBy3.genruntimeconfig.cache

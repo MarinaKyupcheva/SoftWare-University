@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\bin\Debug\netcoreapp3.1\sf.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\sf\obj\Debug\netcoreapp3.1\sf.genruntimeconfig.cache

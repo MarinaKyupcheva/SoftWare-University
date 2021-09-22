@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.exe
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.deps.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\bin\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\06JaggedArrayManipulatorEx\obj\Debug\netcoreapp3.1\06JaggedArrayManipulatorEx.csprojAssemblyReference.cache

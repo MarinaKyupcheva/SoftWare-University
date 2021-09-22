@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.genruntimeconfig.cache

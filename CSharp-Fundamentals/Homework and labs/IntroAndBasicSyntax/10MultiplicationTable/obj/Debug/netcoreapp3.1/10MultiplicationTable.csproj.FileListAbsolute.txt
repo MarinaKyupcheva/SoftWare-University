@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.exe
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.deps.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.runtimeconfig.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\bin\Debug\netcoreapp3.1\10MultiplicationTable.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.dll
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.pdb
+C:\Users\Admin\source\repos\IntroAndBasicSyntax\10MultiplicationTable\obj\Debug\netcoreapp3.1\10MultiplicationTable.genruntimeconfig.cache

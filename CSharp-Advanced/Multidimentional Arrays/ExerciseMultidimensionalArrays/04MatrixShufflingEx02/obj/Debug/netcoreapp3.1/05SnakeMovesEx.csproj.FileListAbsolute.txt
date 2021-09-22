@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.exe
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.deps.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.runtimeconfig.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\bin\Debug\netcoreapp3.1\05SnakeMovesEx.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.dll
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.pdb
+C:\Users\Admin\source\repos\ExerciseMultidimensionalArrays\04MatrixShufflingEx02\obj\Debug\netcoreapp3.1\05SnakeMovesEx.genruntimeconfig.cache

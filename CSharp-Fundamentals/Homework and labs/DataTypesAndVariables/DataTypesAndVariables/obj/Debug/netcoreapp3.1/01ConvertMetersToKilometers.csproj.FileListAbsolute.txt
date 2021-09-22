@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.exe
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometers.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometers.genruntimeconfig.cache

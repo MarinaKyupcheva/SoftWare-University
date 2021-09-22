@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.exe
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.deps.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.runtimeconfig.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.dll
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\bin\Debug\netcoreapp3.1\01ActionPoint.pdb
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.dll
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.pdb
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\ExercisesFunctionalProgramming\obj\Debug\netcoreapp3.1\01ActionPoint.genruntimeconfig.cache

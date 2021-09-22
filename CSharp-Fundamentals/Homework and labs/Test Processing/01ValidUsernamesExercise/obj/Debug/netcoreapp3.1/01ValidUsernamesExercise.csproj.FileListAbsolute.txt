@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.exe
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.deps.json
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.dll
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\bin\Debug\netcoreapp3.1\01ValidUsernamesExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.dll
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.pdb
+C:\Users\Admin\source\repos\Test Processing\01ValidUsernamesExercise\obj\Debug\netcoreapp3.1\01ValidUsernamesExercise.genruntimeconfig.cache

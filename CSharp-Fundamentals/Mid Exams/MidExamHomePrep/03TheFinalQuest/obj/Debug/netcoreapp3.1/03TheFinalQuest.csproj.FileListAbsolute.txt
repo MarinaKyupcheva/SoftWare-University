@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\bin\Debug\netcoreapp3.1\03TheFinalQuest.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03TheFinalQuest\obj\Debug\netcoreapp3.1\03TheFinalQuest.genruntimeconfig.cache

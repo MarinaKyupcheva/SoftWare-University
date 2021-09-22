@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.exe
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.deps.json
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\bin\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\Admin\source\repos\ExamPreparationAdvansed\ExamPreparationAdvansed\obj\Debug\netcoreapp3.1\FlowerWreaths.genruntimeconfig.cache

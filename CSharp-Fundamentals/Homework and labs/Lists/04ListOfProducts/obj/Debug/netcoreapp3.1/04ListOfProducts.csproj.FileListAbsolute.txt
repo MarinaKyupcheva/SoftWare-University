@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.exe
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.deps.json
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\Admin\source\repos\Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.genruntimeconfig.cache

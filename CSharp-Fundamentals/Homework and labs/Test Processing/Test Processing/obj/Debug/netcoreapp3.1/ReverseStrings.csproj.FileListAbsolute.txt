@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.exe
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.deps.json
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.json
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\Admin\source\repos\Test Processing\Test Processing\bin\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test Processing\Test Processing\obj\Debug\netcoreapp3.1\ReverseStrings.csprojAssemblyReference.cache

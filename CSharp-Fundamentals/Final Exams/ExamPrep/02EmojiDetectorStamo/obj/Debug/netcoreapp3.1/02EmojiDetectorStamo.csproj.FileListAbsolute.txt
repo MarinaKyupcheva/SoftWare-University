@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.exe
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.deps.json
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\bin\Debug\netcoreapp3.1\02EmojiDetectorStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.dll
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.pdb
+C:\Users\Admin\source\repos\ExamPrep\02EmojiDetectorStamo\obj\Debug\netcoreapp3.1\02EmojiDetectorStamo.genruntimeconfig.cache

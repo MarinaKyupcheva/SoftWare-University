@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.exe
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.deps.json
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.runtimeconfig.json
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.dll
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.pdb
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.dll
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.pdb
+C:\Users\Admin\source\repos\01MatchFullName\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.genruntimeconfig.cache

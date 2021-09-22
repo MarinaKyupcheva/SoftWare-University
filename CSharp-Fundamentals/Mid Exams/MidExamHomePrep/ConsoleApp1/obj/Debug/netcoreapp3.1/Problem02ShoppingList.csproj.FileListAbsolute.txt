@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\bin\Debug\netcoreapp3.1\Problem02ShoppingList.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\ConsoleApp1\obj\Debug\netcoreapp3.1\Problem02ShoppingList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.exe
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.deps.json
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.dll
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\bin\Debug\netcoreapp3.1\02FancyBarcodes.pdb
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.dll
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.pdb
+C:\Users\Admin\source\repos\ExamPrep\02FancyBarcodes\obj\Debug\netcoreapp3.1\02FancyBarcodes.genruntimeconfig.cache

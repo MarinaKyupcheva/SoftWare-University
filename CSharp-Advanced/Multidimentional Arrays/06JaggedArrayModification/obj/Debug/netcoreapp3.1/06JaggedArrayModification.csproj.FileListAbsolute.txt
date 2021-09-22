@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.exe
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.deps.json
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.runtimeconfig.json
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.dll
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\bin\Debug\netcoreapp3.1\06JaggedArrayModification.pdb
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.dll
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.pdb
+C:\Users\Admin\source\repos\Multidimensional Arrays\06JaggedArrayModification\obj\Debug\netcoreapp3.1\06JaggedArrayModification.genruntimeconfig.cache

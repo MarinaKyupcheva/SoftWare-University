@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\SignOfIntigerNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\SignOfIntigerNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\SignOfIntigerNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\SignOfIntigerNumbers.csproj.CoreCompileInputs.cache

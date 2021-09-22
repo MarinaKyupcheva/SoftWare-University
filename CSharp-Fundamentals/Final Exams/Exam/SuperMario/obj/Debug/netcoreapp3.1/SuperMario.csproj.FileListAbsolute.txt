@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.exe
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.deps.json
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\Admin\source\repos\Exam\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\Admin\source\repos\Exam\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.exe
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.deps.json
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.dll
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.dll
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\03HeroesOfCodeAndLogic.genruntimeconfig.cache

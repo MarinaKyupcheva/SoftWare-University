@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\1ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.genruntimeconfig.cache

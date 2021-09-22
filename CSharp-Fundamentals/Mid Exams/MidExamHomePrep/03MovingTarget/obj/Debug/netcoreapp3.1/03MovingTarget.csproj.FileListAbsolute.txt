@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.exe
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.deps.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\bin\Debug\netcoreapp3.1\03MovingTarget.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.dll
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.pdb
+C:\Users\Admin\source\repos\MidExamHomePrep\03MovingTarget\obj\Debug\netcoreapp3.1\03MovingTarget.genruntimeconfig.cache

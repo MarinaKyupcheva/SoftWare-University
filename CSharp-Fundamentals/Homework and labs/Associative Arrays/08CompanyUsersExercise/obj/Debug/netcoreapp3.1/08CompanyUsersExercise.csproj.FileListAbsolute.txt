@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.exe
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.deps.json
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\bin\Debug\netcoreapp3.1\08CompanyUsersExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.dll
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.pdb
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Associative Arrays\08CompanyUsersExercise\obj\Debug\netcoreapp3.1\08CompanyUsersExercise.csprojAssemblyReference.cache

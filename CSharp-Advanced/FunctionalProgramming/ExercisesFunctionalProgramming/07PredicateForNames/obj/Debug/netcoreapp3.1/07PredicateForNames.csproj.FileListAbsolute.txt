@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.exe
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.deps.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.runtimeconfig.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.dll
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.pdb
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.dll
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.pdb
+C:\Users\Admin\source\repos\ExercisesFunctionalProgramming\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.genruntimeconfig.cache

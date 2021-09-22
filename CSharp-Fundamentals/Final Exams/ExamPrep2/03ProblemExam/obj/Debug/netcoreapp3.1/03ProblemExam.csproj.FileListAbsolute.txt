@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.exe
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.deps.json
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.dll
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\bin\Debug\netcoreapp3.1\03ProblemExam.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.dll
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.pdb
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExamPrep2\03ProblemExam\obj\Debug\netcoreapp3.1\03ProblemExam.csprojAssemblyReference.cache

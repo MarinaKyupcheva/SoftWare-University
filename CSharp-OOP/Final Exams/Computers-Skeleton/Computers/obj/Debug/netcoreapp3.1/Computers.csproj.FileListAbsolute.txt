@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Admin\Downloads\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

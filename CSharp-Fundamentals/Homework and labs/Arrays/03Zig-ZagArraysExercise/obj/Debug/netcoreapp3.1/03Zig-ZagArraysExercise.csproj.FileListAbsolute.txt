@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.exe
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.deps.json
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.dll
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\bin\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.pdb
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.dll
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.pdb
+C:\Users\Admin\source\repos\Arrays\03Zig-ZagArraysExercise\obj\Debug\netcoreapp3.1\03Zig-ZagArraysExercise.genruntimeconfig.cache

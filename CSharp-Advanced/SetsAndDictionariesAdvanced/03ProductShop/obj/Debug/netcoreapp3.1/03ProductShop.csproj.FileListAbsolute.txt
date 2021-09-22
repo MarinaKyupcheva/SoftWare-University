@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.exe
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.deps.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.runtimeconfig.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.dll
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.pdb
+C:\Users\Admin\source\repos\SetsAndDictionariesAdvanced\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.genruntimeconfig.cache
