@@ -1,107 +1,107 @@
-USE [SoftUni]
+SE SoftUni
 
----1.	Employee Address
+---Problem 1.	Find Names of All Employees by First Name
 
-SELECT TOP(5) 
-	   e.[EmployeeID], 
-	   e.[JobTitle], 
-	   e.[AddressID], 
-	   a.[AddressText]
-FROM [Employees] AS e
-LEFT JOIN [Addresses] AS a
-ON e.[AddressID] = a.[AddressID]
-ORDER BY e.[AddressID]
+SELECT [FirstName], [LastName] FROM [Employees]
+ WHERE LEFT ([FirstName], 2) = 'Sa'
 
----2.	Addresses with Towns
+---Problem 2.	  Find Names of All employees by Last Name 
 
-SELECT TOP (50)
-	   e.[FirstName],
-	   e.[LastName],
-	   t.[Name] AS [Town],
-	   a.[AddressText]
- FROM [Employees] AS e
- LEFT JOIN [Addresses] AS a ON e.[AddressID] = a.[AddressID]
- LEFT JOIN [Towns] AS t ON t.[TownID] = a.[TownID]
- ORDER BY [FirstName] ASC, [LastName] ASC
+SELECT [FirstName], [LastName] FROM [Employees]
+WHERE CHARINDEX ('ei', [LastName]) <> 0
 
- ---3.	Sales Employee
+---Problem 3.	Find First Names of All Employees
 
- SELECT e.[EmployeeID],
-		e.[FirstName],
-		e.[LastName],
-		d.[Name] AS [DepartmentName]
- FROM [Employees] AS e
- JOIN [Departments] AS d ON e.[DepartmentID] = d.[DepartmentID]
- WHERE d.[Name] = 'Sales'
- ORDER BY [EmployeeID] ASC
+SELECT [FirstName] FROM [Employees]
+ WHERE [DepartmentID] IN (3, 10)
+   AND DATEPART (YEAR, [HireDate]) BETWEEN 1995 AND 2005
 
- ---4.	Employee Departments
+---Problem 4.	Find All Employees Except Engineers
 
- SELECT TOP(5) e.[EmployeeID],
-		e.[FirstName],
-		e.[Salary],
-		d.[Name] AS [DepartmentName]
- FROM [Employees] AS e
- JOIN [Departments] AS d ON e.[DepartmentID] = d.[DepartmentID]
- WHERE e.[Salary] > 15000
- ORDER BY d.[DepartmentID] ASC
+SELECT [FirstName], [LastName] FROM [Employees]
+WHERE [JobTitle] NOT LIKE '%engineer%'
 
- ---5.	Employees Without Project
+---Problem 5.	Find Towns with Name Length
 
- SELECT TOP(3) e.[EmployeeID],
-		       e.[FirstName]
- FROM [Employees] AS e
- LEFT JOIN [EmployeesProjects] AS ep ON e.[EmployeeID] = ep.[EmployeeID]
- WHERE ep.[ProjectID] IS NULL
- ORDER BY e.[EmployeeID] ASC
+  SELECT [Name] FROM [Towns]
+   WHERE LEN([Name]) IN (5, 6)
+ORDER BY [Name]
 
- ---6.	Employees Hired After
+---Problem 6.	 Find Towns Starting With
 
- SELECT e.[FirstName],
-		e.[LastName],
-		e.[HireDate],
-		d.[Name] AS [DeptName]
- FROM [Employees] AS e
- LEFT JOIN [Departments] AS d ON e.[DepartmentID] = d.[DepartmentID]
- WHERE e.[HireDate] > '01.01.1999' AND d.[Name] = 'Sales' OR d.[Name] = 'Finance'
- ORDER BY e.[HireDate] ASC
+SELECT * FROM [Towns]
+WHERE LEFT ([Name], 1) IN ('M','K', 'B', 'E')
+ORDER BY [Name]
 
- ---7.	Employees with Project
+---Problem 7.	 Find Towns Not Starting With
 
- SELECT TOP(5) e.[EmployeeID],
-				e.[FirstName],
-				p.[Name] AS [ProjectName] 
- FROM [Employees] AS e
- JOIN [EmployeesProjects] AS ep
- ON e.[EmployeeID] = ep.[EmployeeID]
- JOIN [Projects] AS p 
- ON ep.[ProjectID] = p.[ProjectID]
- WHERE p.[StartDate] > '2002-08-13' AND p.[EndDate] IS NULL
- ORDER BY e.[EmployeeID] 
+SELECT * FROM [Towns]
+WHERE [Name] NOT LIKE '[bdr]%'
+ORDER BY [Name]
 
- ---8.	Employee 24
+---Problem 8.	Create View Employees Hired After 2000 Year
 
- SELECT e.[EmployeeID],
-		e.[FirstName],
-		CASE
-			WHEN YEAR(p.[StartDate]) >= 2005 THEN NULL
-			ELSE p.[Name] 
-			END AS [ProjectName]
- FROM Employees AS e
-  JOIN [EmployeesProjects] AS ep ON e.[EmployeeID] = ep.[EmployeeID]
-  JOIN [Projects] AS p ON ep.[ProjectID] = p.[ProjectID]
- WHERE e.[EmployeeID] = 24
+GO 
 
+CREATE VIEW [V_EmployeesHiredAfter2000] AS
+     SELECT [FirstName], [LastName]
+       FROM [Employees]
+	   
+	
+	  
+GO
 
- ---9.	Employee Manager
+---Problem 9.	Length of Last Name
 
-SELECT
-e.[EmployeeID],
-e.[FirstName],
-m.[EmployeeID] AS [ManagerID],
-m.[FirstName] AS [ManagerName]
-	FROM [Employees] AS e
-		JOIN [Employees] AS m
-			ON m.[EmployeeID] = e.[ManagerID]
-		WHERE e.[ManagerID] IN (3,7) 
-	ORDER BY e.[EmployeeID]
+SELECT [FirstName], [LastName] FROM [Employees]
+WHERE LEN([LastName]) IN (5)
+
+---Problem 10.	Rank Employees by Salary
+
+  SELECT [EmployeeID], [FirstName], [LastName], [Salary],
+DENSE_RANK() OVER (PARTITION BY [Salary] ORDER BY [EmployeeID]) AS [Rank]
+    FROM [Employees]
+   WHERE [Salary] BETWEEN 10000 AND 50000
+ORDER BY [Salary] DESC
+
+---Problem 11.	Find All Employees with Rank 2 *
+
+SELECT * FROM (
+		SELECT [EmployeeID], [FirstName], [LastName], [Salary],
+		DENSE_RANK() OVER (PARTITION BY [Salary] ORDER BY [EmployeeID]) AS [Rank]
+          FROM [Employees]
+         WHERE [Salary] BETWEEN 10000 AND 50000
+			 )
+      AS [RankingTable]
+   WHERE [Rank] = 2
+ORDER BY [Salary] DESC
+
+---Problem 12.	Countries Holding ‘A’ 3 or More Times
+
+USE [Geography]
+
+SELECT [CountryName] AS [Country Name],
+[IsoCode] AS [Iso Code]
+FROM [Countries]
+WHERE [CountryName] LIKE '%a%a%a%'
+ORDER BY [IsoCode]
+
+---Problem 13.	 Mix of Peak and River Names
+
+SELECT p.[PeakName],
+	   r.[RiverName],
+	   LOWER(CONCAT(LEFT(p.[PeakName], LEN(p.[PeakName]) - 1), r.[RiverName]))
+			 AS[Mix]
+FROM [Peaks] AS p,
+	[Rivers] AS r
+WHERE LOWER(RIGHT(p.[PeakName], 1)) = LOWER (LEFT(r.[RiverName], 1))
+ORDER BY [Mix]
+
+---Problem 14.	Games from 2011 and 2012 year
+
+USE [Diablo]
+
+SELECT TOP(50) [Name], [Start] FROM [Games]
+WHERE DATEPART(YEAR, [Start]) BETWEEN 2011 AND 2012
+ORDER BY [Start], [Name]
+
